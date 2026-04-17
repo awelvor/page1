@@ -1,0 +1,5 @@
+[book]
+authors = ["philippe"]
+language = "en"
+src = "src"
+title = "MyBook"
